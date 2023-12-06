@@ -5,7 +5,7 @@
 
 - 量化 Quantization
     - https://github.com/ctribes/cifar10-resnet18-pytorch-quantization Tests on cifar10 with Resnet18 network using quantization from a full precision checkpoint
-    - DYNAMIC QUANTIZATION ON AN LSTM WORD LANGUAGE MODEL https://github.com/pytorch/tutorials/blob/main/advanced_source/dynamic_quantization_tutorial.py
+    - https://github.com/pytorch/tutorials/blob/main/advanced_source/dynamic_quantization_tutorial.py Dynamic Quantization on an LSTM word language model
     
           tutorial: https://pytorch.org/tutorials/advanced/dynamic_quantization_tutorial.html#beta-dynamic-quantization-on-an-lstm-word-language-model
     
