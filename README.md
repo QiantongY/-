@@ -17,5 +17,4 @@
  
 - 知识蒸馏 Know Distillation
     - https://github.com/haitongli/knowledge-distillation-pytorch A PyTorch implementation for exploring deep and shallow knowledge distillation (KD) experiments with flexibility
-    - https://github.com/open-mmlab/mmrazor OpenMMLab Model Compression Toolbox and Benchmark.
     - https://github.com/wonbeomjang/yolov5-knowledge-distillation implementation of Distilling Object Detectors with Fine-grained Feature Imitation on yolov5
