@@ -56,3 +56,5 @@
 - 知识蒸馏 Know Distillation
     - https://github.com/haitongli/knowledge-distillation-pytorch A PyTorch implementation for exploring deep and shallow knowledge distillation (KD) experiments with flexibility
     - https://github.com/wonbeomjang/yolov5-knowledge-distillation implementation of Distilling Object Detectors with Fine-grained Feature Imitation on yolov5
+    - https://huggingface.co/distilbert-base-uncased BERT Knowledge Distillation: distilbert-base-uncased
+    - https://huggingface.co/distilgpt2 GPT2 Distillation: distilgpt2 
