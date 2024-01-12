@@ -23,7 +23,7 @@
 | Image Classification    | CIFAR10                         | ResNet                  |
 | Object Detection        | COCO                            | YOLOv8                    |
 | Text Classification     | GLUE                            | bert-large-uncased      |
-| Translation             | wikitext/wikitext-103-raw-v1    | GPT2                    |
+| Text Generation             | wikitext/wikitext-103-raw-v1    | GPT2                    |
 
 - **压缩应用**：将四种压缩技术应用于每一个任务，并记录其对性能的影响。
 - **时间记录**：参与者应详细记录在每项任务和学习每种压缩方法过程中投入的时间。
