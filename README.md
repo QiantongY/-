@@ -6,10 +6,10 @@
 
 ### 压缩技术
 研究的四种压缩算法包括：
-1. 剪枝 Pruning
-2. 量化 Quantization
-3. 低秩分解 Low-Rank Factorization
-4. 知识蒸馏 Knowledge Distillation
+1. 剪枝 Pruning https://zhuanlan.zhihu.com/p/609126518?utm_id=0
+2. 量化 Quantization https://zhuanlan.zhihu.com/p/619914824
+3. 低秩分解 Low-Rank Factorization https://zhuanlan.zhihu.com/p/490455377
+4. 知识蒸馏 Knowledge Distillation https://zhuanlan.zhihu.com/p/258390817?utm_id=0
 
 每项压缩技术必须应用于每个任务，以全面分析其性能和适用性。
 
