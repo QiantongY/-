@@ -8,8 +8,7 @@
 研究的四种压缩算法包括：
 1. 剪枝 Pruning https://zhuanlan.zhihu.com/p/609126518?utm_id=0
 2. 量化 Quantization https://zhuanlan.zhihu.com/p/619914824
-3. 低秩分解 Low-Rank Factorization https://zhuanlan.zhihu.com/p/490455377
-4. 知识蒸馏 Knowledge Distillation https://zhuanlan.zhihu.com/p/258390817?utm_id=0
+3. 知识蒸馏 Knowledge Distillation https://zhuanlan.zhihu.com/p/258390817?utm_id=0
 
 ### 方法论
 - **任务概览**：下表为本实验需要实现压缩技术的模型、算法、数据集。实验需要实现计算机视觉和自然语言处理任务之一（将会指定给实验者）。
@@ -40,15 +39,8 @@
     - https://github.com/pytorch/tutorials/blob/main/advanced_source/dynamic_quantization_tutorial.py Dynamic Quantization on an LSTM word language model
     
           tutorial: https://pytorch.org/tutorials/advanced/dynamic_quantization_tutorial.html#beta-dynamic-quantization-on-an-lstm-word-language-model
-    
-    - https://github.com/openppl-public/ppq PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
 
-- 低秩分解 Low-Rank Decomposition
-    - https://github.com/TaehyeonKim-pyomu/CNN_compression_rank_selection_BayesOpt Bayesian Optimization-Based Global Optimal Rank Selection for Compression of Convolutional Neural Networks, IEEE Access
-    - https://github.com/tnbar/tednet TedNet: A Pytorch Toolkit for Tensor Decomposition Networks （ResNet、RNN)
  
 - 知识蒸馏 Know Distillation
     - https://github.com/haitongli/knowledge-distillation-pytorch A PyTorch implementation for exploring deep and shallow knowledge distillation (KD) experiments with flexibility
-    - https://github.com/wonbeomjang/yolov5-knowledge-distillation implementation of Distilling Object Detectors with Fine-grained Feature Imitation on yolov5
     - https://huggingface.co/distilbert-base-uncased BERT Knowledge Distillation: distilbert-base-uncased
-    - https://huggingface.co/distilgpt2 GPT2 Distillation: distilgpt2 
