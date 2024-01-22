@@ -11,18 +11,14 @@
 3. 低秩分解 Low-Rank Factorization https://zhuanlan.zhihu.com/p/490455377
 4. 知识蒸馏 Knowledge Distillation https://zhuanlan.zhihu.com/p/258390817?utm_id=0
 
-每项压缩技术必须应用于每个任务，以全面分析其性能和适用性。
-
 ### 方法论
-- **任务概览**：下表为本实验需要实现压缩技术的四种模型、算法、数据集。实验需要完成两个计算机视觉、两个自然语言处理的任务。
+- **任务概览**：下表为本实验需要实现压缩技术的模型、算法、数据集。实验需要完成两个计算机视觉、两个自然语言处理的任务。
 实验需完成的模型、任务、数据集：
 
 | 任务 (Task)             | 数据集 (Dataset)                | 模型 (Model)            |
 |-------------------------|---------------------------------|-------------------------|
 | Image Classification    | CIFAR10                         | ResNet                  |
-| Object Detection        | COCO                            | YOLOv8                    |
 | Text Classification     | GLUE                            | bert-large-uncased      |
-| Text Generation             | wikitext/wikitext-103-raw-v1    | GPT2                    |
 
 - **压缩应用**：将四种压缩技术应用于每一个任务，并记录其对性能的影响。
 - **时间记录**：参与者应详细记录在每项任务和学习每种压缩方法过程中投入的时间。
