@@ -1,5 +1,5 @@
 ## 项目概述
-本仓库包含一系列实验代码，重点在于对不同模型、任务和数据集应用**一种或多种**不同的模型压缩技术。主要目标是评估每种压缩方法在不同情境下的有效性和效率。
+本仓库包含一系列实验代码，重点在于对不同模型、任务和数据集应用**一种或多种**不同的模型压缩技术。主要目标是探究不同背景的操作人员对每种压缩方法的决策过程。
 
 ### 参与者须知
 参与者需要对预定义的模型、任务和数据集应用压缩算法，记录每项任务的操作时间和每种算法的学习过程、时间、偏好等，最终对这些方法产生自己的评价。
@@ -68,6 +68,6 @@
           tutorial: https://pytorch.org/tutorials/advanced/dynamic_quantization_tutorial.html#beta-dynamic-quantization-on-an-lstm-word-language-model
 
  
-- 知识蒸馏 Know Distillation
+- 知识蒸馏 Knowledge Distillation
     - https://github.com/haitongli/knowledge-distillation-pytorch A PyTorch implementation for exploring deep and shallow knowledge distillation (KD) experiments with flexibility
     - https://huggingface.co/distilbert-base-uncased BERT Knowledge Distillation: distilbert-base-uncased
